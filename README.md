@@ -4,8 +4,8 @@ Este é o Jogo do Destino. Uma brincadeira leve e divertida de perguntas e respo
 Criado como parte da Maratona Explorer, promovida pela Rocketseat (https://www.rocketseat.com.br), entre 6 e 12 de junho de 2022.
 
 # languages
-- HTML
 - CSS
+- HTML
 - JavaScript
 
 # Deixe sua pergunta e descubra o que o Destino tem reservado a você! 😄 🔮
